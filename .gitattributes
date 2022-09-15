@@ -1,1 +1,2 @@
 anotherfile merge=ours
+.gitattributes merge=ours
